@@ -918,7 +918,7 @@ footer h3 {
 /* 788px ESTILO -> TABLET */
 @media only screen and (min-width: 788px) and (max-width: 979px) {
     .header {
-        background: url("../img/banner2.jpg") center no-repeat;
+        background: url("../img/banner2.jpg");
     }
   /* Final do Estilo para TABLET */
 }
@@ -926,7 +926,7 @@ footer h3 {
 /* <= 787px ESTILO -> CELULAR  */
 @media only screen and (max-width: 787px) {
     .header {
-        background: url("../img/banner2.jpg") center no-repeat;
+        background: url("../img/banner2.jpg");
     }
 
   .subtitulo {
