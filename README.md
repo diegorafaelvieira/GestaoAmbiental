@@ -11,7 +11,7 @@ Pablo Augusto Bentz*
 
 [SITE](https://diegorafaelvieira.github.io/GestaoAmbiental/) :desktop_computer: 
 
-Referências
+# Referências
 Green IT: Os Benefícios de Uma TI Verde.PMGACADEMY, 2020. Disponível em:
 <https://www.pmgacademy.com/green-it-os-beneficios-de-uma-ti-verde/>. Acesso em: 03 de dez. de 2020.
 
@@ -33,7 +33,7 @@ PORQUE O MORANGO ORGÂNICO É MELHOR PARA A SAÚDE Porque o morango orgânico é
 Disponível em: <https://ruralcentro.com.br/analises/porque-o-morango-organico-e-melhor-para-a-saude-6139>. Acesso em 07 de dez. de 2020.
 
 
-Imagens
+# Imagens
 Foto de Singkham no Pexels
 Disponível em: <https://www.pexels.com/pt-br/foto/ao-ar-livre-aumento-brilhante-bulbo-1108572/>. Acesso em: 03 de dez. de 2020. 
 
