@@ -657,6 +657,7 @@ img {
     background: url("../img/banner2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     /*padding: 15px 0px;*/
     z-index: 10;
 }
@@ -916,17 +917,17 @@ footer h3 {
 /* RESPONSIVIDADE */
 /* 788px ESTILO -> TABLET */
 @media only screen and (min-width: 788px) and (max-width: 979px) {
-  .header {
-    background: url("../img/bannerTablet.jpg") center no-repeat;
-  }
+    .header {
+        background: url("../img/banner2.jpg") center no-repeat;
+    }
   /* Final do Estilo para TABLET */
 }
 
 /* <= 787px ESTILO -> CELULAR  */
 @media only screen and (max-width: 787px) {
-  .header {
-    background: url("../img/bannerMobile.jpg") center no-repeat;
-  }
+    .header {
+        background: url("../img/banner2.jpg") center no-repeat;
+    }
 
   .subtitulo {
     font-size: 20px;
