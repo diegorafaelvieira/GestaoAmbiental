@@ -927,16 +927,24 @@ footer h3 {
 @media only screen and (max-width: 787px) {
     .header {
         background: url("../img/banner2.jpg");
+        height : auto;
     }
 
   .subtitulo {
     font-size: 20px;
   }
 
+  .nomeEmpresa{
+      font-size:30px;
+  }
+
   .mega img {
     margin-left: 50px;
     text-align: center;
   }
+    .historia {
+        margin-top: 400px;
+    }
 
   footer {
     height: auto;
