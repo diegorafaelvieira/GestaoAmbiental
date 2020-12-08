@@ -944,13 +944,15 @@ footer h3 {
       padding-top:0px;
       text-align:center;
   }
-
-  .mega img {
-    margin-left: 50px;
-    text-align: center;
-  }
+    .imgLogo{
+        height: 50px;
+    }
+    .mega img {
+        margin-left: 50px;
+        text-align: center;
+    }
     .historia {
-        margin-top: 400px;
+        margin-top: 200px;
     }
 
   footer {
