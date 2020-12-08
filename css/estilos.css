@@ -774,6 +774,11 @@ img {
   margin-top: -80px;
 }
 
+.nomeEmpresa {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
 .personagem_icone {
   padding: 10px;
   margin-bottom: 10px;
