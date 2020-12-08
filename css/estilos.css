@@ -640,6 +640,7 @@ img {
   font-family: "JetBrains Mono", monospace;
   font-size: 20px;
   text-shadow: 1px 1px 0.5px #fff;
+  text-align: center;
 }
 .subtitulo {
   font-size: 24px;
